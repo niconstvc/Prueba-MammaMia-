@@ -1,0 +1,67 @@
+[
+  {
+    "desc": "La pizza napolitana es un clásico plato italiano originario de Nápoles. Se caracteriza por tener una base delgada y ligeramente crujiente, pero con un borde más esponjoso y grueso, conocido como cornicione. La auténtica pizza napolitana se elabora con ingredientes simples y de alta calidad.",
+    "id": "P001",
+    "img": "https://www.latercera.com/resizer/mNes_h6_idfl_lg95UiXa9eNNIw=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/UJQEGMANSJGG5CSZZ22TPK66DA.JPG",
+    "ingredients": ["mozzarella", "tomates", "jamón"],
+    "name": "Napolitana",
+    "price": 10590
+  },
+  {
+    "desc": "La pizza española es una variante de este clásico plato italiano que ha sido adaptada con ingredientes típicos de la cocina española. Aunque las combinaciones pueden variar según la región o el gusto personal",
+    "id": "P002",
+    "img": "https://i0.wp.com/irecetasfaciles.com/wp-content/uploads/2019/01/pizza-con-salami-chorizo-beacon.jpg?resize=900%2C580&ssl=1",
+    "ingredients": ["tomates", "jamón", "choricillo"],
+    "name": "Española",
+    "price": 16890
+  },
+  {
+    "desc": "La pizza de salame es una variante deliciosa de este popular plato italiano, que se distingue por la presencia del salame como ingrediente principal. Esta pizza combina la suculenta carne curada con los sabores y texturas de la salsa de tomate, el queso derretido y otros ingredientes complementarios.",
+    "id": "P003",
+    "img": "https://www.italianstylecooking.net/wp-content/uploads/2022/01/Pizza-Salami-1024x683.jpg",
+    "ingredients": ["mozzarella", "tomates", "salame"],
+    "name": "Salame",
+    "price": 13890
+  },
+  {
+    "desc": "La pizza Cuatro Estaciones es una variante popular que combina cuatro secciones distintas en una sola pizza, cada una representando una estación del año. Esta creación culinaria permite disfrutar de una variedad de sabores en un solo plato, satisfaciendo diferentes gustos en una misma comida.",
+    "id": "P004",
+    "img": "https://i.blogs.es/2b355a/pizza-4-estaciones/1366_2000.jpg",
+    "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
+    "name": "Cuatro estaciones",
+    "price": 16890
+  },
+  {
+    "desc": "La pizza de bacon es una deliciosa variante de la clásica pizza italiana que destaca por la presencia de bacon o panceta como ingrediente principal. Este popular plato combina la jugosidad y el sabor ahumado del bacon con la suavidad del queso fundido y otros ingredientes complementarios.",
+    "id": "P005",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+    "ingredients": ["mozzarella", "tomates cherry", "bacon"],
+    "name": "Bacon",
+    "price": 15390
+  },
+  {
+    "desc": "La pizza de pollo BBQ es una variante deliciosa y popular que combina el sabor ahumado y jugoso del pollo bañado en salsa barbacoa con la suavidad del queso derretido y otros ingredientes complementarios. Esta pizza ofrece una experiencia culinaria única que combina la tradición italiana con los sabores distintivos de la cocina estadounidense.",
+    "id": "P006",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+    "ingredients": ["mozzarella", "pimientos", "pollo grillé"],
+    "name": "Pollo BBQ",
+    "price": 15390
+  },
+  {
+    "desc": "La pizza hawaiana es una variante popular que combina ingredientes salados y dulces para crear una experiencia culinaria única. Se caracteriza por la presencia de trozos de piña y jamón, que se combinan con la suavidad del queso derretido y la salsa de tomate sobre una base de masa de pizza.",
+    "id": "P007",
+    "img": "https://unareceta.com/wp-content/uploads/2014/05/receta-de-pizza-hawaiana-640x427.jpg",
+    "ingredients": ["piña", "jamon cocido", "queso mozzarella"],
+    "name": "Hawaiana",
+    "price": 13890
+  },
+  {
+    "desc": "La pizza cuatro carnes es una variante indulgente y sabrosa que combina una selección de cuatro tipos diferentes de carne sobre una base de masa de pizza. Esta pizza está pensada para los amantes de la carne que disfrutan de una experiencia culinaria abundante y satisfactoria.",
+    "id": "P008",
+    "img": "https://valentispizza.net/wp-content/uploads/2017/04/pizza-4-carnes-copy.webp",
+    "ingredients": ["salame", "carne", "jamon"],
+    "name": "Cuatro Carnes",
+    "price": 19890
+  }
+  
+]
